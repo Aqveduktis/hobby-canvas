@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+
+.main
+{
+    float: left;
+    padding: 20px;
+    min-height: 600px;
+}
+.column-main
+{
+  width: 67%;  
+}
+.column-side
+{
+    width: 33;
+}
